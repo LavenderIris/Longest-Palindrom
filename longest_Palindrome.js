@@ -1,4 +1,4 @@
-# rewritten for easier understanding
+// rewritten for easier understanding
 
 function longestPalindrome(str){
   var largest_left=0;
